@@ -4,6 +4,11 @@
 
 ### Learning Outcomes
 
+
+LINK TO MY TABLEAU PUBLIC - - -  https://public.tableau.com/views/Lab1Tableau_17180269492530/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link 
+
+
+
 Upon completion of this lab, you will be able to:
 
 - Load and integrate datasets into Tableau for analysis.
